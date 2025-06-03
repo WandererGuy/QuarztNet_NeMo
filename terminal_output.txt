@@ -1,0 +1,758 @@
+[NeMo I 2025-03-04 08:28:03 wer:330] reference:đựng toàn bộ số tranh bị thất lạc
+[NeMo I 2025-03-04 08:28:03 wer:331] predicted:đựng toàn bộ số tranh bị thất lạc
+Epoch 28:  81%|███████████████▎   | 294/365 [28:32<06:53,  0.17it/s, v_num=4-21, train_step_timing in s=4.170][NeMo I 2025-03-04 08:28:28 wer:329] 
+    
+[NeMo I 2025-03-04 08:28:28 wer:330] reference:những người bị tiểu đường nên tránh dùng nước tăng lực
+[NeMo I 2025-03-04 08:28:28 wer:331] predicted:những người bị tiểu đường nên tránh dùng nước tăn lực
+Epoch 28:  82%|███████████████▌   | 299/365 [29:00<06:24,  0.17it/s, v_num=4-21, train_step_timing in s=3.900][NeMo I 2025-03-04 08:28:57 wer:329] 
+    
+[NeMo I 2025-03-04 08:28:57 wer:330] reference:ba mươi tám ba mươi chín
+[NeMo I 2025-03-04 08:28:57 wer:331] predicted:ba mươi tam ban mươi chín
+Epoch 28:  83%|███████████████▊   | 304/365 [29:26<05:54,  0.17it/s, v_num=4-21, train_step_timing in s=3.720][NeMo I 2025-03-04 08:29:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:29:21 wer:330] reference:các đường nét của cơ thể hình dạng này
+[NeMo I 2025-03-04 08:29:21 wer:331] predicted:các đường nét của cơ thể hình dạng này
+Epoch 28:  85%|████████████████   | 309/365 [29:49<05:24,  0.17it/s, v_num=4-21, train_step_timing in s=7.560][NeMo I 2025-03-04 08:29:45 wer:329] 
+    
+[NeMo I 2025-03-04 08:29:45 wer:330] reference:tôi thấy mình cứ béo lên và tự đi ra hiệu thuốc gần đó mua một liều thuốc uống để đi nhiều cho bớt mập
+[NeMo I 2025-03-04 08:29:45 wer:331] predicted:tôi thấy mình cử béo lên và tự đi ra hiệu thuốc cần đó mua một liều thuốc uống để đi nhiều co bất mật
+Epoch 28:  86%|████████████████▎  | 314/365 [30:14<04:54,  0.17it/s, v_num=4-21, train_step_timing in s=5.620][NeMo I 2025-03-04 08:30:11 wer:329] 
+    
+[NeMo I 2025-03-04 08:30:11 wer:330] reference:bị tước quyền sử dụng giấy phép hoạt động có thời hạn nếu vi phạm lần một và bị tước quyền sử dụng giấy phép nếu vi phạm lần hai
+[NeMo I 2025-03-04 08:30:11 wer:331] predicted:bị thước quyền sử dụng giáy phép hoạt động có thời hạn nếu vi phạm lần một và bị tước quyền sử dụng giấy phép nếu vi phạm lần hai
+Epoch 28:  87%|████████████████▌  | 319/365 [30:46<04:26,  0.17it/s, v_num=4-21, train_step_timing in s=4.350][NeMo I 2025-03-04 08:30:42 wer:329] 
+    
+[NeMo I 2025-03-04 08:30:42 wer:330] reference:nhưng vẻ đẹp bóng đá cũng rất mong manh khi người ta sẵn sàng bỏ bóng đá người
+[NeMo I 2025-03-04 08:30:42 wer:331] predicted:những vẻ đẹp bóng đá cũng riất nom min ki người ta sẵn sàng đỏ bóng đá người
+Epoch 28:  89%|████████████████▊  | 324/365 [31:13<03:57,  0.17it/s, v_num=4-21, train_step_timing in s=3.610][NeMo I 2025-03-04 08:31:10 wer:329] 
+    
+[NeMo I 2025-03-04 08:31:10 wer:330] reference:mùi mẹ ngày xuân là sự hòa quyện của mùi vị thiên nhiên
+[NeMo I 2025-03-04 08:31:10 wer:331] predicted:mùi mẹ ngày duấn là sự hòa quyện của mùi vị thiên nhiên
+Epoch 28:  90%|█████████████████▏ | 329/365 [31:39<03:27,  0.17it/s, v_num=4-21, train_step_timing in s=4.200][NeMo I 2025-03-04 08:31:34 wer:329] 
+    
+[NeMo I 2025-03-04 08:31:34 wer:330] reference:nhưng tính tình ương gàn
+[NeMo I 2025-03-04 08:31:34 wer:331] predicted:nhưng tính tình ương gàng
+Epoch 28:  92%|█████████████████▍ | 334/365 [32:04<02:58,  0.17it/s, v_num=4-21, train_step_timing in s=4.300][NeMo I 2025-03-04 08:31:59 wer:329] 
+    
+[NeMo I 2025-03-04 08:31:59 wer:330] reference:cuộc ly hôn chính thức được công nhận về mặt pháp lý
+[NeMo I 2025-03-04 08:31:59 wer:331] predicted:cuộc ly hôn chính thức được công nhận về mặt pháp lý
+Epoch 28:  93%|█████████████████▋ | 339/365 [32:30<02:29,  0.17it/s, v_num=4-21, train_step_timing in s=3.660][NeMo I 2025-03-04 08:32:27 wer:329] 
+    
+[NeMo I 2025-03-04 08:32:27 wer:330] reference:ngoài ra nhiều khu dân cư trên địa bàn cũng được vinh danh về các thành tích bảo vệ môi trường sống
+[NeMo I 2025-03-04 08:32:27 wer:331] predicted:ngoài ra nhiều khu dân trên địa bàn cũng được vinh danh về các thành tích bảo về mươi trưừng sống
+Epoch 28:  94%|█████████████████▉ | 344/365 [33:01<02:00,  0.17it/s, v_num=4-21, train_step_timing in s=8.150][NeMo I 2025-03-04 08:32:57 wer:329] 
+    
+[NeMo I 2025-03-04 08:32:57 wer:330] reference:theo trào lưu chung dù không nhận được nhiều lời khen
+[NeMo I 2025-03-04 08:32:57 wer:331] predicted:theo trào lư chung dù không nhận được nhiều lời khên
+Epoch 28:  96%|██████████████████▏| 349/365 [33:30<01:32,  0.17it/s, v_num=4-21, train_step_timing in s=7.390][NeMo I 2025-03-04 08:33:26 wer:329] 
+    
+[NeMo I 2025-03-04 08:33:26 wer:330] reference:nếu thiếu ngủ bạn sẽ thấy mệt mỏi
+[NeMo I 2025-03-04 08:33:26 wer:331] predicted:nếu thiếu ngủ bạn sẽ thấy mệnh mỏi
+Epoch 28:  97%|██████████████████▍| 354/365 [33:57<01:03,  0.17it/s, v_num=4-21, train_step_timing in s=4.700][NeMo I 2025-03-04 08:33:52 wer:329] 
+    
+[NeMo I 2025-03-04 08:33:52 wer:330] reference:điều này làm họ thích nạp những thức ăn loại này
+[NeMo I 2025-03-04 08:33:52 wer:331] predicted:điều đềy làm họ thích nạp những thức ăn loại này
+Epoch 28:  98%|██████████████████▋| 359/365 [34:19<00:34,  0.17it/s, v_num=4-21, train_step_timing in s=3.220][NeMo I 2025-03-04 08:34:15 wer:329] 
+    
+[NeMo I 2025-03-04 08:34:15 wer:330] reference:phát triển hạ tầng viễn thông rối bời giá cho thuê cột điện
+[NeMo I 2025-03-04 08:34:15 wer:331] predicted:phát triển hà thần biết thông rối ba giá cho thê cộc điện
+Epoch 28: 100%|██████████████████▉| 364/365 [34:41<00:05,  0.17it/s, v_num=4-21, train_step_timing in s=3.720][NeMo I 2025-03-04 08:34:36 wer:329] 
+    
+[NeMo I 2025-03-04 08:34:36 wer:330] reference:du khách cũng phải bơi trong làn nước đen kịt
+[NeMo I 2025-03-04 08:34:36 wer:331] predicted:du khách cũng phải bai trong làng nước đen kịh
+Epoch 29:   1%|▏                    | 4/365 [00:21<32:33,  0.18it/s, v_num=4-21, train_step_timing in s=3.530][NeMo I 2025-03-04 08:34:59 wer:329] 
+    
+[NeMo I 2025-03-04 08:34:59 wer:330] reference:ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số
+[NeMo I 2025-03-04 08:34:59 wer:331] predicted:ống dụng đạo hàm để khảo sác và vẻ đù thị của hàm số
+Epoch 29:   2%|▌                    | 9/365 [00:59<38:57,  0.15it/s, v_num=4-21, train_step_timing in s=8.250][NeMo I 2025-03-04 08:35:36 wer:329] 
+    
+[NeMo I 2025-03-04 08:35:36 wer:330] reference:đối với cảng hàng không quốc tế đà nẵng sử dụng nhà ga hành khách hiện hữu làm nhà ga nội địa
+[NeMo I 2025-03-04 08:35:36 wer:331] predicted:đối với cản hàng không quốc tế đà nãng sử dụng nhà ga hành khích họn làm nhà ga nội điệt
+Epoch 29:   4%|▊                   | 14/365 [01:21<34:03,  0.17it/s, v_num=4-21, train_step_timing in s=5.300][NeMo I 2025-03-04 08:35:58 wer:329] 
+    
+[NeMo I 2025-03-04 08:35:58 wer:330] reference:vài món đồ cổ tranh thủ mua được ở đâu đó
+[NeMo I 2025-03-04 08:35:58 wer:331] predicted:vài món đồ cảo tranh thủ được mua ở đâu đó
+Epoch 29:   5%|█                   | 19/365 [01:43<31:30,  0.18it/s, v_num=4-21, train_step_timing in s=6.410][NeMo I 2025-03-04 08:36:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:36:21 wer:330] reference:sống giữa thành phố lớn không quen nhiều khi tôi đơn độc muốn tìm sự chia sẻ từ một người bạn
+[NeMo I 2025-03-04 08:36:21 wer:331] predicted:sống giữa hành phố lớn không quan nhàu khô tô đông đặt muốn tìm sự chi sẻ từ một người bạn
+Epoch 29:   7%|█▎                  | 24/365 [02:10<30:58,  0.18it/s, v_num=4-21, train_step_timing in s=9.120][NeMo I 2025-03-04 08:36:49 wer:329] 
+    
+[NeMo I 2025-03-04 08:36:49 wer:330] reference:lúc đó tôi quan sát thấy những người thợ khác làm việc giỏi hơn tôi và được trả công cao hơn
+[NeMo I 2025-03-04 08:36:49 wer:331] predicted:lúc đó tôi quan sát thấy những người hợ khác làm việc giỏi hân tôi và được trả công cao hơn
+Epoch 29:   8%|█▌                  | 29/365 [02:36<30:17,  0.18it/s, v_num=4-21, train_step_timing in s=4.970][NeMo I 2025-03-04 08:37:14 wer:329] 
+    
+[NeMo I 2025-03-04 08:37:14 wer:330] reference:trò đồng thanh dạ dân gian là thầy với tụi con
+[NeMo I 2025-03-04 08:37:14 wer:331] predicted:trò đồng thanh dả dưn gian la thầy với tui c
+Epoch 29:   9%|█▊                  | 34/365 [03:02<29:35,  0.19it/s, v_num=4-21, train_step_timing in s=6.770][NeMo I 2025-03-04 08:37:39 wer:329] 
+    
+[NeMo I 2025-03-04 08:37:39 wer:330] reference:tôi biết rằng cũng như những người khác
+[NeMo I 2025-03-04 08:37:39 wer:331] predicted:tô biết rằng cũng như những người khác
+Epoch 29:  11%|██▏                 | 39/365 [03:28<28:58,  0.19it/s, v_num=4-21, train_step_timing in s=4.270][NeMo I 2025-03-04 08:38:06 wer:329] 
+    
+[NeMo I 2025-03-04 08:38:06 wer:330] reference:vạt áo sễ xuống
+[NeMo I 2025-03-04 08:38:06 wer:331] predicted:vạt áo sẽ xuống
+Epoch 29:  12%|██▍                 | 44/365 [03:58<29:01,  0.18it/s, v_num=4-21, train_step_timing in s=4.310][NeMo I 2025-03-04 08:38:36 wer:329] 
+    
+[NeMo I 2025-03-04 08:38:36 wer:330] reference:mình sống vô tư trên hôm nay vợ phải lo toan tính mỗi ngày
+[NeMo I 2025-03-04 08:38:36 wer:331] predicted:mình sống vô tư trên hôm nay vợ phải lo toan kính mở nhà
+Epoch 29:  13%|██▋                 | 49/365 [04:22<28:10,  0.19it/s, v_num=4-21, train_step_timing in s=4.410][NeMo I 2025-03-04 08:39:00 wer:329] 
+    
+[NeMo I 2025-03-04 08:39:00 wer:330] reference:những em đến được với kỳ thi này cùng gia đình các em xứng đáng là những tấm gương về nghị lực phi thường trong cuộc sống
+[NeMo I 2025-03-04 08:39:00 wer:331] predicted:những em đến được với kỳ thế này cùng gia đình các em xứng đáng là những tấm gương về nghị lực pvi thường trong cuộc sống
+Epoch 29:  15%|██▉                 | 54/365 [04:47<27:34,  0.19it/s, v_num=4-21, train_step_timing in s=4.410][NeMo I 2025-03-04 08:39:24 wer:329] 
+    
+[NeMo I 2025-03-04 08:39:24 wer:330] reference:thỉnh thoảng có một đám đột xuất mình sẽ ở nhà trông nhà cho vợ đi bởi đó là đám tang
+[NeMo I 2025-03-04 08:39:24 wer:331] predicted:thỉnh thoản có một đến đột suất mình sẽ ở nhà trong nhà cho vợ đi bởi đó là đám tan
+Epoch 29:  16%|███▏                | 59/365 [05:11<26:56,  0.19it/s, v_num=4-21, train_step_timing in s=4.830][NeMo I 2025-03-04 08:39:49 wer:329] 
+    
+[NeMo I 2025-03-04 08:39:49 wer:330] reference:các quỹ đầu tư của trung quốc đang tung tiền mua cổ phần các hãng công nghệ cao khắp thế giới
+[NeMo I 2025-03-04 08:39:49 wer:331] predicted:các quỹ đầu tư của trung quốc đang tung tiền mua cổ phần các hẳn công nghệ cao khắp thế giới
+Epoch 29:  18%|███▌                | 64/365 [05:38<26:33,  0.19it/s, v_num=4-21, train_step_timing in s=7.960][NeMo I 2025-03-04 08:40:17 wer:329] 
+    
+[NeMo I 2025-03-04 08:40:17 wer:330] reference:người vợ trẻ hiền lành góa bụa
+[NeMo I 2025-03-04 08:40:17 wer:331] predicted:người vợ trẻ hiền lành có bộa
+Epoch 29:  19%|███▊                | 69/365 [06:11<26:34,  0.19it/s, v_num=4-21, train_step_timing in s=9.220][NeMo I 2025-03-04 08:40:48 wer:329] 
+    
+[NeMo I 2025-03-04 08:40:48 wer:330] reference:nhưng tôi cũng không dám khẳng định rằng không có chuyện chạy chức danh giáo sư phó giáo sư
+[NeMo I 2025-03-04 08:40:48 wer:331] predicted:nhưng tôi cũng không dám khẳn định rằng không có chuyện chạy chức danh giáo sư phó láu xư
+Epoch 29:  20%|████                | 74/365 [06:47<26:40,  0.18it/s, v_num=4-21, train_step_timing in s=6.380][NeMo I 2025-03-04 08:41:25 wer:329] 
+    
+[NeMo I 2025-03-04 08:41:25 wer:330] reference:đại úy sắc
+[NeMo I 2025-03-04 08:41:25 wer:331] predicted:đại y sắc
+Epoch 29:  22%|████▎               | 79/365 [07:15<26:18,  0.18it/s, v_num=4-21, train_step_timing in s=7.020][NeMo I 2025-03-04 08:41:54 wer:329] 
+    
+[NeMo I 2025-03-04 08:41:54 wer:330] reference:tôi chọn thời điểm ghi lại những khoảnh khắc đó anh nói
+[NeMo I 2025-03-04 08:41:54 wer:331] predicted:tôi trọn thời điểm ghi lại những khoảnh khắct đó anh nói
+Epoch 29:  23%|████▌               | 84/365 [07:50<26:12,  0.18it/s, v_num=4-21, train_step_timing in s=6.940][NeMo I 2025-03-04 08:42:28 wer:329] 
+    
+[NeMo I 2025-03-04 08:42:28 wer:330] reference:phần này sẽ hoàn tất xây dựng cuối cùng trong vài tháng tới
+[NeMo I 2025-03-04 08:42:28 wer:331] predicted:phần này sã hoàng tất xây dựng cuối cùng trong vài thán tới
+Epoch 29:  24%|████▉               | 89/365 [08:17<25:42,  0.18it/s, v_num=4-21, train_step_timing in s=4.030][NeMo I 2025-03-04 08:42:54 wer:329] 
+    
+[NeMo I 2025-03-04 08:42:54 wer:330] reference:bóng đá bắt đầu tập tễnh tiến lên chuyên nghiệp
+[NeMo I 2025-03-04 08:42:54 wer:331] predicted: đã bắt đầu tập tảnh tiến lên chuyên nghiệp
+Epoch 29:  26%|█████▏              | 94/365 [08:45<25:13,  0.18it/s, v_num=4-21, train_step_timing in s=8.170][NeMo I 2025-03-04 08:43:23 wer:329] 
+    
+[NeMo I 2025-03-04 08:43:23 wer:330] reference:rồi những cơ sở làm bì heo tóp mỡ hành phi
+[NeMo I 2025-03-04 08:43:23 wer:331] predicted:rồi những cế sở làm bị heo tóc mở hành phi
+Epoch 29:  27%|█████▍              | 99/365 [09:13<24:47,  0.18it/s, v_num=4-21, train_step_timing in s=7.580][NeMo I 2025-03-04 08:43:52 wer:329] 
+    
+[NeMo I 2025-03-04 08:43:52 wer:330] reference:cần chế tài cơ quan né tránh cung cấp thông tin
+[NeMo I 2025-03-04 08:43:52 wer:331] predicted:cần crế tài cơ quan nế tránh cung cấp thông tin
+Epoch 29:  28%|█████▍             | 104/365 [09:43<24:23,  0.18it/s, v_num=4-21, train_step_timing in s=6.030][NeMo I 2025-03-04 08:44:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:44:21 wer:330] reference:hay bất cứ chiếc máy tính nào có thể truy cập được
+[NeMo I 2025-03-04 08:44:21 wer:331] predicted:hay bất cứ chiếc máy tính nồo có thể truy cập được
+Epoch 29:  30%|█████▋             | 109/365 [10:08<23:50,  0.18it/s, v_num=4-21, train_step_timing in s=4.330][NeMo I 2025-03-04 08:44:46 wer:329] 
+    
+[NeMo I 2025-03-04 08:44:46 wer:330] reference:chín mươi chín mươi mốt
+[NeMo I 2025-03-04 08:44:46 wer:331] predicted:chín mươi chín mốt
+Epoch 29:  31%|█████▉             | 114/365 [10:31<23:10,  0.18it/s, v_num=4-21, train_step_timing in s=3.490][NeMo I 2025-03-04 08:45:09 wer:329] 
+    
+[NeMo I 2025-03-04 08:45:09 wer:330] reference:trường muốn vợ
+[NeMo I 2025-03-04 08:45:09 wer:331] predicted:trường muốn vợ
+Epoch 29:  33%|██████▏            | 119/365 [10:57<22:39,  0.18it/s, v_num=4-21, train_step_timing in s=3.530][NeMo I 2025-03-04 08:45:36 wer:329] 
+    
+[NeMo I 2025-03-04 08:45:36 wer:330] reference:là việc bạn lờ nó đi
+[NeMo I 2025-03-04 08:45:36 wer:331] predicted:là việc bản lờ nó đi
+Epoch 29:  34%|██████▍            | 124/365 [11:46<22:52,  0.18it/s, v_num=4-21, train_step_timing in s=8.790][NeMo I 2025-03-04 08:46:24 wer:329] 
+    
+[NeMo I 2025-03-04 08:46:24 wer:330] reference:khi nụ cười của em xâm chiếm hồn tôi
+[NeMo I 2025-03-04 08:46:24 wer:331] predicted:khi nụ cười của em xâm chiếm tâm hồn tôi
+Epoch 29:  35%|██████▋            | 129/365 [12:16<22:27,  0.18it/s, v_num=4-21, train_step_timing in s=4.500][NeMo I 2025-03-04 08:46:54 wer:329] 
+    
+[NeMo I 2025-03-04 08:46:54 wer:330] reference:hai cù nèo có tin rằng thu nhập của ông thứ trưởng thấp hơn nhuận bút bài báo của tôi chăng
+[NeMo I 2025-03-04 08:46:54 wer:331] predicted:hai cù nào có tin rằng thu nhập của ông thứ trưởng thấp hơn nhuận bút vào báo của tôi chăng
+Epoch 29:  37%|██████▉            | 134/365 [12:43<21:56,  0.18it/s, v_num=4-21, train_step_timing in s=4.310][NeMo I 2025-03-04 08:47:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:47:21 wer:330] reference:bánh làm từ bột đao và trứng gà
+[NeMo I 2025-03-04 08:47:21 wer:331] predicted:bánh làm từ mộc đa và trứng gà
+Epoch 29:  38%|███████▏           | 139/365 [13:12<21:28,  0.18it/s, v_num=4-21, train_step_timing in s=3.830][NeMo I 2025-03-04 08:47:49 wer:329] 
+    
+[NeMo I 2025-03-04 08:47:49 wer:330] reference:một ba năm bảy chín
+[NeMo I 2025-03-04 08:47:49 wer:331] predicted:một ba năm bảy chín
+Epoch 29:  39%|███████▍           | 144/365 [13:37<20:54,  0.18it/s, v_num=4-21, train_step_timing in s=8.420][NeMo I 2025-03-04 08:48:15 wer:329] 
+    
+[NeMo I 2025-03-04 08:48:15 wer:330] reference:anh bật cười cúi đầu mắc cỡ tự biết mình không có dáng vẻ của một nhà văn
+[NeMo I 2025-03-04 08:48:15 wer:331] predicted:anh bạc cười cối đầu mắt cỡ tự bát mình không có dián vẻ của một nhà văn
+Epoch 29:  41%|███████▊           | 149/365 [14:03<20:22,  0.18it/s, v_num=4-21, train_step_timing in s=3.640][NeMo I 2025-03-04 08:48:40 wer:329] 
+    
+[NeMo I 2025-03-04 08:48:40 wer:330] reference:đó là điều tự nhiên
+[NeMo I 2025-03-04 08:48:40 wer:331] predicted:đó là điều tựi nhiên
+Epoch 29:  42%|████████           | 154/365 [14:39<20:04,  0.18it/s, v_num=4-21, train_step_timing in s=6.290][NeMo I 2025-03-04 08:49:17 wer:329] 
+    
+[NeMo I 2025-03-04 08:49:17 wer:330] reference:lý thám hoa đi cà thọt
+[NeMo I 2025-03-04 08:49:17 wer:331] predicted:lý thấm hoa đi cà thọt
+Epoch 29:  44%|████████▎          | 159/365 [15:13<19:43,  0.17it/s, v_num=4-21, train_step_timing in s=7.420][NeMo I 2025-03-04 08:49:51 wer:329] 
+    
+[NeMo I 2025-03-04 08:49:51 wer:330] reference:nhưng nội thất phòng ngủ hiện đại không tách riêng từng đồ vật mà có thể bố trí gắn kết thành một khối thống nhất
+[NeMo I 2025-03-04 08:49:51 wer:331] predicted:nhưng nổi thất phòng ngữ hiện đại không tách riên tìn đầ vật mà có thể bố trí gắn kết thành một khối thống nhấ
+Epoch 29:  45%|████████▌          | 164/365 [15:43<19:16,  0.17it/s, v_num=4-21, train_step_timing in s=7.670][NeMo I 2025-03-04 08:50:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:50:21 wer:330] reference:tính kỷ luật ở đâu tính tiết kiệm thể hiện chỗ nào
+[NeMo I 2025-03-04 08:50:21 wer:331] predicted:tinh kỹ lực ở đâu tính tiết kiệm thể hiện chủ nào
+Epoch 29:  46%|████████▊          | 169/365 [16:13<18:49,  0.17it/s, v_num=4-21, train_step_timing in s=7.010][NeMo I 2025-03-04 08:50:50 wer:329] 
+    
+[NeMo I 2025-03-04 08:50:50 wer:330] reference:một người tuân thủ luật chơi một cách thông minh
+[NeMo I 2025-03-04 08:50:50 wer:331] predicted:một người tuân thủ lật chơi một cách hông minh
+Epoch 29:  48%|█████████          | 174/365 [16:40<18:18,  0.17it/s, v_num=4-21, train_step_timing in s=6.860][NeMo I 2025-03-04 08:51:19 wer:329] 
+    
+[NeMo I 2025-03-04 08:51:19 wer:330] reference:từ rạn san hô mà chúng cư trú
+[NeMo I 2025-03-04 08:51:19 wer:331] predicted:từ rạng sang hô mà chúng cư trú
+Epoch 29:  49%|█████████▎         | 179/365 [17:15<17:55,  0.17it/s, v_num=4-21, train_step_timing in s=5.480][NeMo I 2025-03-04 08:51:52 wer:329] 
+    
+[NeMo I 2025-03-04 08:51:52 wer:330] reference:chìu anh đi em sẽ có tất cả
+[NeMo I 2025-03-04 08:51:52 wer:331] predicted:chiều anh đi em sẽ có trất cả
+Epoch 29:  50%|█████████▌         | 184/365 [17:41<17:24,  0.17it/s, v_num=4-21, train_step_timing in s=6.850][NeMo I 2025-03-04 08:52:19 wer:329] 
+    
+[NeMo I 2025-03-04 08:52:19 wer:330] reference:trên sống lưng lược có khắc một hàng chữ nhỏ mà anh đã gò lưng tẩn mẩn khắc từng nét yêu nhớ tặng thu con của ba
+[NeMo I 2025-03-04 08:52:19 wer:331] predicted:trên sống lơn lược có khác bột hàng chữ nhỏ mà anh đã gời lưn tận mởn khác từng né yêu nhớ tộng thô con của ba
+Epoch 29:  52%|█████████▊         | 189/365 [18:09<16:54,  0.17it/s, v_num=4-21, train_step_timing in s=3.630][NeMo I 2025-03-04 08:52:47 wer:329] 
+    
+[NeMo I 2025-03-04 08:52:47 wer:330] reference:đi lại như con thoi trong và ngoài nước để biến những ấp ủ với quê hương thành hiện thực ông tính còn rất ít thời gian cho gia đình
+[NeMo I 2025-03-04 08:52:47 wer:331] predicted:đi lại như con hôi trong và ngoài nước để biến những át củ vuới vê hương thành hiện thực ông tính còn gất íth thời gian cho gia đình
+Epoch 29:  53%|██████████         | 194/365 [18:43<16:30,  0.17it/s, v_num=4-21, train_step_timing in s=8.530][NeMo I 2025-03-04 08:53:21 wer:329] 
+    
+[NeMo I 2025-03-04 08:53:21 wer:330] reference:rồi kiếm một góc nào đó chợp mắt lấy sức
+[NeMo I 2025-03-04 08:53:21 wer:331] predicted:rời chiếm một hạ nào đó chợp mắc lấy sức
+Epoch 29:  55%|██████████▎        | 199/365 [19:15<16:03,  0.17it/s, v_num=4-21, train_step_timing in s=7.450][NeMo I 2025-03-04 08:53:53 wer:329] 
+    
+[NeMo I 2025-03-04 08:53:53 wer:330] reference:mới đầu sáng trời đã hầm hập
+[NeMo I 2025-03-04 08:53:53 wer:331] predicted:mới đầu sáng trời đã hầm hợp
+Epoch 29:  56%|██████████▌        | 204/365 [19:51<15:39,  0.17it/s, v_num=4-21, train_step_timing in s=4.960][NeMo I 2025-03-04 08:54:28 wer:329] 
+    
+[NeMo I 2025-03-04 08:54:28 wer:330] reference:nhưng đó chỉ là những biểu hiện nhất thời
+[NeMo I 2025-03-04 08:54:28 wer:331] predicted:nhưng đó chỉ là những biểu hin át thời
+Epoch 29:  57%|██████████▉        | 209/365 [20:22<15:12,  0.17it/s, v_num=4-21, train_step_timing in s=4.250][NeMo I 2025-03-04 08:55:00 wer:329] 
+    
+[NeMo I 2025-03-04 08:55:00 wer:330] reference:trong một số trường hợp huyết trắng gây viêm âm hộ thứ phát
+[NeMo I 2025-03-04 08:55:00 wer:331] predicted:trồn một số trường hợp hyết tráng gây nên viê âm hộ thứ phát
+Epoch 29:  59%|███████████▏       | 214/365 [20:55<14:45,  0.17it/s, v_num=4-21, train_step_timing in s=7.770][NeMo I 2025-03-04 08:55:33 wer:329] 
+    
+[NeMo I 2025-03-04 08:55:33 wer:330] reference:em gọi di động ba bốn tráo mà bặt cả tăm hơi
+[NeMo I 2025-03-04 08:55:33 wer:331] predicted:em gọi di động ba bốn trao mà bặt cả tăm hơi
+Epoch 29:  60%|███████████▍       | 219/365 [21:24<14:16,  0.17it/s, v_num=4-21, train_step_timing in s=3.530][NeMo I 2025-03-04 08:56:02 wer:329] 
+    
+[NeMo I 2025-03-04 08:56:02 wer:330] reference:phải chăng do họ quá cùng cực nên phải bỏ trốn
+[NeMo I 2025-03-04 08:56:02 wer:331] predicted:phải chăn do họ quá cùng cực nên phải bả crông
+Epoch 29:  61%|███████████▋       | 224/365 [21:49<13:44,  0.17it/s, v_num=4-21, train_step_timing in s=3.820][NeMo I 2025-03-04 08:56:27 wer:329] 
+    
+[NeMo I 2025-03-04 08:56:27 wer:330] reference:nhờ sự cứu chữa tận tình của các bác sĩ nay sức khỏe của gia đình chị gồm hai vợ chồng mẹ và con trai đang được bình phục
+[NeMo I 2025-03-04 08:56:27 wer:331] predicted:nhờ sự cứu chữa tậng tình của bác sĩ nay sức khỏe của gia đình chỉ guồm hay vệ chầng mẹ và con trai đang được bình phục
+Epoch 29:  63%|███████████▉       | 229/365 [22:14<13:12,  0.17it/s, v_num=4-21, train_step_timing in s=5.030][NeMo I 2025-03-04 08:56:53 wer:329] 
+    
+[NeMo I 2025-03-04 08:56:53 wer:330] reference:điều quan trọng ở đây là bạn phải chứng tỏ được bạn ở lại là vì thực sự còn yêu quý và muốn gắn bó lâu dài với công ty
+[NeMo I 2025-03-04 08:56:53 wer:331] predicted:điều quyn trọng ở đây là bạn phải chứng tỏ được bạn ở lại là vì thựt sự còn yêu quý dà muốn ngắn bó lâu dài với công ty
+Epoch 29:  64%|████████████▏      | 234/365 [22:51<12:47,  0.17it/s, v_num=4-21, train_step_timing in s=7.510][NeMo I 2025-03-04 08:57:28 wer:329] 
+    
+[NeMo I 2025-03-04 08:57:28 wer:330] reference:giải pháp hãy thoa kem chống nắng mỗi ngày với chỉ số chống nắng phù hợp
+[NeMo I 2025-03-04 08:57:28 wer:331] predicted:diải pháp hảy thoa kem chống nắng mỗi ngày với chỉ so chống ó bưng hợp
+Epoch 29:  65%|████████████▍      | 239/365 [23:19<12:17,  0.17it/s, v_num=4-21, train_step_timing in s=4.130][NeMo I 2025-03-04 08:57:58 wer:329] 
+    
+[NeMo I 2025-03-04 08:57:58 wer:330] reference:như tình trạng lệch trục
+[NeMo I 2025-03-04 08:57:58 wer:331] predicted:như tình trạng lệc trục
+Epoch 29:  67%|████████████▋      | 244/365 [23:52<11:50,  0.17it/s, v_num=4-21, train_step_timing in s=5.190][NeMo I 2025-03-04 08:58:31 wer:329] 
+    
+[NeMo I 2025-03-04 08:58:31 wer:330] reference:gánh quà rong
+[NeMo I 2025-03-04 08:58:31 wer:331] predicted:gánh quà rong
+Epoch 29:  68%|████████████▉      | 249/365 [24:26<11:23,  0.17it/s, v_num=4-21, train_step_timing in s=10.50][NeMo I 2025-03-04 08:59:05 wer:329] 
+    
+[NeMo I 2025-03-04 08:59:05 wer:330] reference:sau đó chị em tôi về phòng riêng ngồi khai bút
+[NeMo I 2025-03-04 08:59:05 wer:331] predicted:sau đó chỉ em tôi về phòng riêng ngồi khai bút
+Epoch 29:  70%|█████████████▏     | 254/365 [25:09<10:59,  0.17it/s, v_num=4-21, train_step_timing in s=5.400][NeMo I 2025-03-04 08:59:48 wer:329] 
+    
+[NeMo I 2025-03-04 08:59:48 wer:330] reference:người việt có thói quen hay nhìn lên trên xem cấp trên là tấm gương
+[NeMo I 2025-03-04 08:59:48 wer:331] predicted:người việc có thối quen hay nhinh lên trên xem cấp trên là tấm dêu
+Epoch 29:  71%|█████████████▍     | 259/365 [25:41<10:30,  0.17it/s, v_num=4-21, train_step_timing in s=5.080][NeMo I 2025-03-04 09:00:19 wer:329] 
+    
+[NeMo I 2025-03-04 09:00:19 wer:330] reference:nhiều hãng phim đã vào cuộc để đòi quyền lợi của mình
+[NeMo I 2025-03-04 09:00:19 wer:331] predicted:nhiều hãng khem đã vào cuộc để đòi quyền lợi của mình
+Epoch 29:  72%|█████████████▋     | 264/365 [26:08<10:00,  0.17it/s, v_num=4-21, train_step_timing in s=5.000][NeMo I 2025-03-04 09:00:46 wer:329] 
+    
+[NeMo I 2025-03-04 09:00:46 wer:330] reference:khách vắng hơn nên năm nay chủ cũng không dám tăng giá dịch vụ
+[NeMo I 2025-03-04 09:00:46 wer:331] predicted:khách vắn hơn nên năm nay chủ cũng không gám tăng giá dịch phụ
+Epoch 29:  74%|██████████████     | 269/365 [26:44<09:32,  0.17it/s, v_num=4-21, train_step_timing in s=9.130][NeMo I 2025-03-04 09:01:21 wer:329] 
+    
+[NeMo I 2025-03-04 09:01:21 wer:330] reference:tối hôm ấy cơm nước xong hai vợ chồng lục đục mở đầu dĩa
+[NeMo I 2025-03-04 09:01:21 wer:331] predicted:tối hôm ấy cơm nước song hai vợ chồng lục đục mở đầu địa
+Epoch 29:  75%|██████████████▎    | 274/365 [27:15<09:03,  0.17it/s, v_num=4-21, train_step_timing in s=3.320][NeMo I 2025-03-04 09:01:53 wer:329] 
+    
+[NeMo I 2025-03-04 09:01:53 wer:330] reference:đã nằm trong vô thức của trịnh công sơn từ trẻ
+[NeMo I 2025-03-04 09:01:53 wer:331] predicted:đã nằm trong vô thức của trịnh công sơn từ trẻ
+Epoch 29:  76%|██████████████▌    | 279/365 [27:51<08:35,  0.17it/s, v_num=4-21, train_step_timing in s=5.310][NeMo I 2025-03-04 09:02:30 wer:329] 
+    
+[NeMo I 2025-03-04 09:02:30 wer:330] reference:khi nhìn qua sông hoàng phố phố đông nổi lên như một thủ đô của thế giới phát triển mạnh mẽ
+[NeMo I 2025-03-04 09:02:30 wer:331] predicted:khi nhìn qua xông hoàng phố phố đông nổi lên như một thủ goa của thi giới phát trịể vảnh mẹ
+Epoch 29:  78%|██████████████▊    | 284/365 [28:27<08:07,  0.17it/s, v_num=4-21, train_step_timing in s=8.260][NeMo I 2025-03-04 09:03:05 wer:329] 
+    
+[NeMo I 2025-03-04 09:03:05 wer:330] reference:từ khi trồng đến lúc thu hoạch ông chăm sóc bình thường
+[NeMo I 2025-03-04 09:03:05 wer:331] predicted:từ khi trồng đến lúc thu hoạch ông chăm sóc mình đón
+Epoch 29:  79%|███████████████    | 289/365 [28:53<07:35,  0.17it/s, v_num=4-21, train_step_timing in s=4.640][NeMo I 2025-03-04 09:03:32 wer:329] 
+    
+[NeMo I 2025-03-04 09:03:32 wer:330] reference:ngay sáng hôm sau tôi từ biệt ông lão xuôi đò
+[NeMo I 2025-03-04 09:03:32 wer:331] predicted:ngay sán hôm xa tôi từ biệt ông lão xui đò
+Epoch 29:  81%|███████████████▎   | 294/365 [29:24<07:06,  0.17it/s, v_num=4-21, train_step_timing in s=6.120][NeMo I 2025-03-04 09:04:02 wer:329] 
+    
+[NeMo I 2025-03-04 09:04:02 wer:330] reference:nếu vì công việc chúng ta về nhà quá trễ và ăn tối quá muộn thì nên chọn những thức ăn dễ tiêu
+[NeMo I 2025-03-04 09:04:02 wer:331] predicted:nếu vì công việc chúng ta về nhà quá trể và ăn tối quá mộn thì nên chọ những thức an d ti
+Epoch 29:  82%|███████████████▌   | 299/365 [29:58<06:36,  0.17it/s, v_num=4-21, train_step_timing in s=5.950][NeMo I 2025-03-04 09:04:35 wer:329] 
+    
+[NeMo I 2025-03-04 09:04:35 wer:330] reference:theo tôi đây là nguyện vọng cuối cùng mà nếu có cơ hội chị cũng sẽ nói như vậy
+[NeMo I 2025-03-04 09:04:35 wer:331] predicted:theo tôi đây là nguyện vọng cuối cùng mà nếu có cơ hội chị cũng xé nói như vậy
+Epoch 29:  83%|███████████████▊   | 304/365 [30:20<06:05,  0.17it/s, v_num=4-21, train_step_timing in s=4.050][NeMo I 2025-03-04 09:04:58 wer:329] 
+    
+[NeMo I 2025-03-04 09:04:58 wer:330] reference:hắn có dáng vẻ khó nhìn cái đầu to quá khổ như mọc lên từ phần thân gầy thấp
+[NeMo I 2025-03-04 09:04:58 wer:331] predicted:hắn có dián vẻ khó nhìn cái đầu to quá khổ như mậc lên từ phần thân gày thấp
+Epoch 29:  85%|████████████████   | 309/365 [30:52<05:35,  0.17it/s, v_num=4-21, train_step_timing in s=5.710][NeMo I 2025-03-04 09:05:30 wer:329] 
+    
+[NeMo I 2025-03-04 09:05:30 wer:330] reference:nếu nắng tốt
+[NeMo I 2025-03-04 09:05:30 wer:331] predicted:nếu nắng tốt
+Epoch 29:  86%|████████████████▎  | 314/365 [31:18<05:05,  0.17it/s, v_num=4-21, train_step_timing in s=4.260][NeMo I 2025-03-04 09:05:56 wer:329] 
+    
+[NeMo I 2025-03-04 09:05:56 wer:330] reference:nó làm môi trường đầu tư bị méo mó
+[NeMo I 2025-03-04 09:05:56 wer:331] predicted:nó làm môi trường đầu tư bị nên mó
+Epoch 29:  87%|████████████████▌  | 319/365 [31:48<04:35,  0.17it/s, v_num=4-21, train_step_timing in s=4.080][NeMo I 2025-03-04 09:06:26 wer:329] 
+    
+[NeMo I 2025-03-04 09:06:26 wer:330] reference:ngay cả trước khi nó được chính thức công bố
+[NeMo I 2025-03-04 09:06:26 wer:331] predicted:ngay cả trước khi nó được chính thức công bố
+Epoch 29:  89%|████████████████▊  | 324/365 [32:20<04:05,  0.17it/s, v_num=4-21, train_step_timing in s=8.010][NeMo I 2025-03-04 09:06:58 wer:329] 
+    
+[NeMo I 2025-03-04 09:06:58 wer:330] reference:phạt đứt chồi những quả dứa non
+[NeMo I 2025-03-04 09:06:58 wer:331] predicted:phạt đứt chời những quả dướ non
+Epoch 29:  90%|█████████████████▏ | 329/365 [32:46<03:35,  0.17it/s, v_num=4-21, train_step_timing in s=5.160][NeMo I 2025-03-04 09:07:24 wer:329] 
+    
+[NeMo I 2025-03-04 09:07:24 wer:330] reference:thường vang lên qua các loa phóng thanh
+[NeMo I 2025-03-04 09:07:24 wer:331] predicted:thường vang lên vua chác moa phóng thanh
+Epoch 29:  92%|█████████████████▍ | 334/365 [33:12<03:04,  0.17it/s, v_num=4-21, train_step_timing in s=4.990][NeMo I 2025-03-04 09:07:50 wer:329] 
+    
+[NeMo I 2025-03-04 09:07:50 wer:330] reference:cúm gia cầm có thể bùng phát tại quốc gia tây phi này
+[NeMo I 2025-03-04 09:07:50 wer:331] predicted:cốm gia cầm có thể bùn phát tại quốc gia tây phi này
+Epoch 29:  93%|█████████████████▋ | 339/365 [33:45<02:35,  0.17it/s, v_num=4-21, train_step_timing in s=6.470][NeMo I 2025-03-04 09:08:22 wer:329] 
+    
+[NeMo I 2025-03-04 09:08:22 wer:330] reference:tuy đã bị đuổi học nhưng lâm vẫn thường xuyên
+[NeMo I 2025-03-04 09:08:22 wer:331] predicted:tu đã bị đổi học nhin lâm vẫn thường xuyên
+Epoch 29:  94%|█████████████████▉ | 344/365 [34:17<02:05,  0.17it/s, v_num=4-21, train_step_timing in s=4.250][NeMo I 2025-03-04 09:08:55 wer:329] 
+    
+[NeMo I 2025-03-04 09:08:55 wer:330] reference:nhưng dạy học phải có cái tâm tôi không bao giờ bỏ lớp bệnh tôi vẫn lên lớp
+[NeMo I 2025-03-04 09:08:55 wer:331] predicted:nhưng dài học phải có cái tậm tôi không bao giờ bỏ lớp bệnh tôi vẫn lên mớp
+Epoch 29:  96%|██████████████████▏| 349/365 [34:44<01:35,  0.17it/s, v_num=4-21, train_step_timing in s=5.020][NeMo I 2025-03-04 09:09:22 wer:329] 
+    
+[NeMo I 2025-03-04 09:09:22 wer:330] reference:chuyện vậy mà nó cũng làm được
+[NeMo I 2025-03-04 09:09:22 wer:331] predicted:chuyện vậy mà nó cũng làm được
+Epoch 29:  97%|██████████████████▍| 354/365 [35:09<01:05,  0.17it/s, v_num=4-21, train_step_timing in s=5.000][NeMo I 2025-03-04 09:09:46 wer:329] 
+    
+[NeMo I 2025-03-04 09:09:46 wer:330] reference:và trịnh công sơn còn vẽ cả tranh
+[NeMo I 2025-03-04 09:09:46 wer:331] predicted:và trịnh công sơn còn vẻ cả tranh
+Epoch 29:  98%|██████████████████▋| 359/365 [35:39<00:35,  0.17it/s, v_num=4-21, train_step_timing in s=8.290][NeMo I 2025-03-04 09:10:16 wer:329] 
+    
+[NeMo I 2025-03-04 09:10:16 wer:330] reference:sau cùng bà cũng cất nên lời mẹ sẽ đưa con đến phòng cấp cứu
+[NeMo I 2025-03-04 09:10:16 wer:331] predicted:sau cùng bà cũng cất nên lời mẹ sẽ đưa con đến phòng cấp cứu
+Epoch 29: 100%|██████████████████▉| 364/365 [36:00<00:05,  0.17it/s, v_num=4-21, train_step_timing in s=4.950][NeMo I 2025-03-04 09:10:36 wer:329] 
+    
+[NeMo I 2025-03-04 09:10:36 wer:330] reference:hai mươi tám hai mươi chín
+[NeMo I 2025-03-04 09:10:36 wer:331] predicted:ào mươi tám hai mươi chín
+Epoch 29: 100%|███████████████████| 365/365 [36:00<00:00,  0.17it/s, v_num=4-21, train_step_timing in s=0.376[NeMo I 2025-03-04 09:10:38 wer:329]                                                    | 0/95 [00:00<?, ?it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:trở nên thụ động
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:trở nên thù động
+                                                                                                             [NeMo I 2025-03-04 09:10:38 wer:329]                                            | 1/95 [00:00<00:07, 12.84it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:tất cả mọi thứ đều kỳ lạ một cách phi thường
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:đất cả mọ thứ đềo kỳ lạ một các phi thường
+                                                                                                             [NeMo I 2025-03-04 09:10:38 wer:329]                                            | 2/95 [00:00<00:06, 14.73it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:có thể lành lặn mà không để lại vết sẹo
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:có thể làn lặn mà không để lại vớt sẹo
+                                                                                                             [NeMo I 2025-03-04 09:10:38 wer:329]                                            | 3/95 [00:00<00:05, 15.94it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:mỗi khi xe rác đi ngang qua đánh kẻng mới đem ra đổ
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:mỗ khi xe lá ti ngen qua tắn kẻn mới đêm ra độ
+                                                                                                             [NeMo I 2025-03-04 09:10:38 wer:329]                                            | 4/95 [00:00<00:05, 17.31it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:mày dám chơi vợ tao tao phải giết mày
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:mạy giám chê vợ đa đa crể giếp mày
+                                                                                                             [NeMo I 2025-03-04 09:10:38 wer:329]                                            | 5/95 [00:00<00:05, 17.99it/s]
+    
+[NeMo I 2025-03-04 09:10:38 wer:330] reference:phù hợp cho mọi cân nặng
+[NeMo I 2025-03-04 09:10:38 wer:331] predicted:hù hợp cho mỏi cân nặng
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                            | 6/95 [00:00<00:04, 18.58it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:trong tư thế phi ngựa chồm lên
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:trong tư thế phi ngữa chồn lên
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                            | 7/95 [00:00<00:04, 19.62it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:một kế hoạch tương tự được áp dụng ở anh
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:một kế hoạch tương tổi được áp dụng ở anh
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                            | 8/95 [00:00<00:04, 20.26it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:và khi họ vạch tóc ra
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:và khi họ và tóc ra
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                            | 9/95 [00:00<00:04, 20.80it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:bác vẫn chưa trả tiền cho tôi đây nhé
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:bác phận chưa rã tiền cho tôi đế nhé
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                           | 10/95 [00:00<00:04, 21.09it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:khi trẫm khỏi bệnh thì sẽ chém đầu
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:khi chẩm khỏi bệnh thì sẽ chém đầu
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                           | 11/95 [00:00<00:03, 21.32it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:nhưng khi tiến gần vào vịnh thì mặt biển bị rạn vỡ
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:nhưng khi tiếng gần và vĩn hì mặt biển bị gảng vở
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329]                                           | 12/95 [00:00<00:03, 21.56it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:việc quy tội để bùng nổ loại sách này là do
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:việc quy tội đểi bùng nổ loại sách này là do
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ▌                                         | 13/95 [00:00<00:03, 21.50it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:và rất sáng tạo
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:và gức sáng tạo
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] █                                         | 14/95 [00:00<00:03, 21.40it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:do chính phủ mỹ tiến hành ở việt nam
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:do chính phủ mỹ tiếng hành ở việt nam
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] █▌                                        | 15/95 [00:00<00:03, 21.27it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:bà nói
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:bà nói
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ██                                        | 16/95 [00:00<00:03, 21.25it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:nghĩa là kém cỏi nam tính hay sao
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:nghĩa là kiếm cỏ nom tính hay sau
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ██▌                                       | 17/95 [00:00<00:03, 21.41it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:chính bà cũng là người nung nấu niềm đam mê diễn xuất của cô con gái
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:chính bà cũng là người nung nóu niềm đâm me diễn sức của cu con gái
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ███                                       | 18/95 [00:00<00:03, 21.35it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:và tôi thấy hoa vạn thọ vàng ươm
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:và tôi thấy qua vận thọ vàn ưm
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ███▌                                      | 19/95 [00:00<00:03, 21.23it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:những sai lầm khi đi chọn khách sạn
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:nhữ xâ lầm khi đi chọn khết sạn
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ████                                      | 20/95 [00:00<00:03, 21.34it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:hãy tưởng tượng rằng bạn là là giám đốc dự án trong một công ty lớn
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:hãy tượng tượng rằng bạn là giám đốc dự án trong một công ty lớn
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ████▌                                     | 21/95 [00:00<00:03, 21.55it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:thu chạm ngõ rất hiền
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:thu chạm ngọ rất hiền
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] █████                                     | 22/95 [00:01<00:03, 21.68it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:khi cô thể hiện không mấy thành công ở lễ khai mạc
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:khi cô thể hiện không mấy thành công ở lẽ khai mạt
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] █████▌                                    | 23/95 [00:01<00:03, 21.62it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:lần lữa mãi mới gặp được tuyên
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:lần nữa mãi mới gặp được tuyên
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ██████▏                                   | 24/95 [00:01<00:03, 21.73it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:cộng đồng người mê toán học trên toàn thế giới
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:cộng đồng người mê toáng học trên toàn thế giới
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ██████▋                                   | 25/95 [00:01<00:03, 21.67it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:đơn giản là tán gẫu với nhau
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:đưng giản là táng gụ với nhau
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ███████▏                                  | 26/95 [00:01<00:03, 21.61it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:đang hấp dẫn các tập đoàn phân phối đa quốc gia
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:đang hấp dẫn các tập đàn phân phối đa quốc dia
+                                                                                                             [NeMo I 2025-03-04 09:10:39 wer:329] ███████▋                                  | 27/95 [00:01<00:03, 21.71it/s]
+    
+[NeMo I 2025-03-04 09:10:39 wer:330] reference:làm cô nàng rọ rạy thức trắng cả đêm
+[NeMo I 2025-03-04 09:10:39 wer:331] predicted:làm cô nàng rọ ray thức trắn cả đêm
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████▏                                 | 28/95 [00:01<00:03, 21.76it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:phải được thực hiện trên cơ sở
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:phải được thực hiện trên cơ sở
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████▋                                 | 29/95 [00:01<00:03, 21.65it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:nói trước bước không qua
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:nói trước bước không qua
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████▏                                | 30/95 [00:01<00:02, 21.73it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:hằng năm chúng ta thải ra hàng tỉ thiết bị điện tử
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:hăng năm chúng ta thể ra hàng tỉ thiết bị điến tử
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████▋                                | 31/95 [00:01<00:02, 21.80it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:đã có dự án để xây dựng một cái cầu từ đất liền
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:đã có dữ án để xây dựng một cái cầu từ đất liền
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████▏                               | 32/95 [00:01<00:02, 21.93it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:có hai tác dụng tích cực
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:có hai tác dụng tích cực
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████▋                               | 33/95 [00:01<00:02, 22.04it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:những người hoài nghi nói rằng giữ được vật treo lủng lẳng trên người
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:những người hoài nghi nói rằng giữ được vật trao lũng lẫng trên người
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ███████████▏                              | 34/95 [00:01<00:02, 21.96it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:hai mươi tám hai mươi chín
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:ha mươi tám hai mươi chín
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ███████████▋                              | 35/95 [00:01<00:02, 21.93it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:đừng để con sâu ăn
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:đừng để con sâu ăn
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████████▏                             | 36/95 [00:01<00:02, 21.73it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:khi tôi là con bé lớp bốn thì cây vả đã cao quá nóc nhà
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:khi tôi là con bé lúp bốn thì kây vã đã cao quá nóc nhà
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████████▋                             | 37/95 [00:01<00:02, 21.80it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:nước gỗ trên chiếc đồng hồ đã bắt lên màu gụ bóng loáng
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:nước gỡ trên chiếc đồng hồ đở bắt lên màu vũ môn goán
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████████▏                            | 38/95 [00:01<00:02, 21.81it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:kết quả chỉ có vỏn vẹn ba người còn biết dệt
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:kết quả chỉ có vỏn vẹn ba người còn viết gẹp
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████████▋                            | 39/95 [00:01<00:02, 21.91it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:năm mươi bốn năm mươi lăm
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:nam mươi bốn năm mươi lăm
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████████▏                           | 40/95 [00:01<00:02, 21.92it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:làm rờm rợp biển mây lau lách phất phơ
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:làm ròm rộp biển mây lầu lắth phất phơ
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████████▋                           | 41/95 [00:01<00:02, 22.00it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:rồi rơm rạ khô theo thân hình gầy ngẳng
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:rồi ron rã khô theo thân hình gìy gặn ngắng
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ███████████████▏                          | 42/95 [00:01<00:02, 21.78it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:câu trả lời của ông ta rất khiếm nhã
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:câu trả lời củ hủ hôn tàn rất khiếm nhã
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ███████████████▋                          | 43/95 [00:01<00:02, 21.83it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:mỗi người chúng ta sẽ có những thứ khác nhau
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:mỏi ngưi chúng ta sẽ khó những thứới khác nhau
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████████████▏                         | 44/95 [00:02<00:02, 21.86it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:căn nhà đằng kia nghe nói có ma
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:căng nhà đàng ki nghe nó cố ma
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ████████████████▋                         | 45/95 [00:02<00:02, 21.84it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:khi bị công an thộp cổ khẩn cấp
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:hì bị công an hợp cổ hẩn cấp
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████████████▏                        | 46/95 [00:02<00:02, 21.61it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:tôi lớn lên trong sự ghẻ lạnh của người mẹ kế
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:tôi lớn lên công sự ghẻ lạnh của người mẹ kế
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] █████████████████▋                        | 47/95 [00:02<00:02, 21.56it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:cái khó là
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:cái hó a
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████████████▎                       | 48/95 [00:02<00:02, 21.53it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:nếu đi tiếp nha trang
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:nếu gì kếp nga chang
+                                                                                                             [NeMo I 2025-03-04 09:10:40 wer:329] ██████████████████▊                       | 49/95 [00:02<00:02, 21.61it/s]
+    
+[NeMo I 2025-03-04 09:10:40 wer:330] reference:chín mươi sáu chín mươi bảy
+[NeMo I 2025-03-04 09:10:40 wer:331] predicted:chín mươi sá chín mười bả
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████▎                      | 50/95 [00:02<00:02, 21.59it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:nữ diễn viên xinh đẹp phạm băng băng
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:nữ diễn viên sinh đạp phạm ăn băng
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████▊                      | 51/95 [00:02<00:02, 21.61it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:nếu bạn vẫn cảm thấy tội lỗi
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:nếu bạn phẫn cảm thấy tội lỗi
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████▎                     | 52/95 [00:02<00:01, 21.65it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:không phải nắp khum
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:không phải nấp không
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████▊                     | 53/95 [00:02<00:01, 21.51it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:ít nhất ở hơn ba mươi trường thuộc các địa phương nói trên
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:ít nhấc ở hơn bà mười trường thuộc các đểa phương nói trên
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] █████████████████████▎                    | 54/95 [00:02<00:01, 21.45it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:bây giờ cướp nhiều quá đi đường cũng thấy sợ
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:bây giờ cướp nhiều quá đi đường cũng thấy xợ
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] █████████████████████▊                    | 55/95 [00:02<00:01, 21.50it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:từ sự dư thừa quá mức của luồng tiền này
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:từ sự dư thừa quá mức của luồn tiền này
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ██████████████████████▎                   | 56/95 [00:02<00:01, 21.47it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:thiếu tướng phạm quý ngọ cho biết
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:thiếu tướng phạm quý ngọ cho biết
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ██████████████████████▊                   | 57/95 [00:02<00:01, 21.49it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:khi chính phủ lúc đầu đề nghị ân xá cho những người nổi dậy
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:khi chính phủ lúc đầu đầ nghĩ ân xá cho những người nổi dậy
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████████▎                  | 58/95 [00:02<00:01, 21.49it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:đối với những phản ứng khác biệt đó
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:đối với những phản ứng khác biệt đó
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████████▊                  | 59/95 [00:02<00:01, 21.51it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:sáu mươi sáu mươi mốt
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:sáu mươi sáu mươi mốt
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████████▎                 | 60/95 [00:02<00:01, 21.51it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:đơn vị mình không nghe ai nói gì chưa hẳn đã tốt
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:đưng vị mình không nghe ai nói gì chưa hẳn đã tốt
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████████▊                 | 61/95 [00:02<00:01, 21.48it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:những chiếc lồng đèn đồ chơi việt vẫn lặng lẽ mang hồn việt xuống phố
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:những chiếc lòn đèn đồ chơi việc vẫn lặng lẽ mang hồn việc xuống phố
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] █████████████████████████▎                | 62/95 [00:02<00:01, 21.39it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:mẹ lần tay trong ví và lấy ra chiếc phong bì
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:mẹ lần tay chong ví và lấy ra chiếc hong bì
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] █████████████████████████▊                | 63/95 [00:02<00:01, 21.35it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:không nản nghĩa tin rằng sẽ có một giải pháp nào đó
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:không nảng nghĩa tinh rằng sẽ có một giải pháp nào đó
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ██████████████████████████▎               | 64/95 [00:03<00:01, 21.29it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:tôi học cùng với các anh chị làm việc chuyên về sản xuất phần mềm
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:tôi học cùng với các anh chị làm việc chuyên về sản xuóc phần mề
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ██████████████████████████▊               | 65/95 [00:03<00:01, 21.34it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:biên chế này nhà thanh gọi là an nam quốc nhạc
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:biên chế này nhà thanh gọ lạ en nam quốt nhạc
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████████████▎              | 66/95 [00:03<00:01, 21.38it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:trò đùa đối với thầy nhưng lại là chân thật chân thật với một người
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:thò đồ đối với thầy nhưng lại là chân thoật trân thuật với một người
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ███████████████████████████▊              | 67/95 [00:03<00:01, 21.38it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:nhưng trước đây nhìn từ bên ngoài nơi này không khác một căn nhà hoang
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:trước đây nhìn từ bên ngoài nơi này không khác gì một cănh nhà hoang
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████████████▎             | 68/95 [00:03<00:01, 21.44it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:minh nhật hồng quân vũ công thành sưu tầm từ báo nước ngoài
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:minh quân hồng quân củ công thành sư tập từ báo nước ngoài
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] ████████████████████████████▊             | 69/95 [00:03<00:01, 21.41it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:nông dân trồng mía than cứ một vụ được lại ba vụ thất
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:nông dâng trồng mý thang cứ một vụ lại được va bụ thức
+                                                                                                             [NeMo I 2025-03-04 09:10:41 wer:329] █████████████████████████████▎            | 70/95 [00:03<00:01, 21.45it/s]
+    
+[NeMo I 2025-03-04 09:10:41 wer:330] reference:điều này khó hơn khi bạn vào bàn tiệc toàn người xa lạ
+[NeMo I 2025-03-04 09:10:41 wer:331] predicted:niều này khờ hơn khi bạn rồi bạnh tiệu toàn ngời xa lạ
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] █████████████████████████████▊            | 71/95 [00:03<00:01, 21.48it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:một tình huống ứng xử sư phạm tôi làm bộ tỉnh rụi được cô duyệt
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:mộ tiền hân ứn sự sư phạim tôi là bộ tiện rui được cô duyn
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████▍           | 72/95 [00:03<00:01, 21.38it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:trải dài hàng chục cây số đều thu gọn vào tầm mắt
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:chạy giài hàng chụt cây số đàu thu gọ vào tậm mắth
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████▉           | 73/95 [00:03<00:01, 21.32it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:nhảm nhí khi giờ học chán phèo buồn ngủ quá ờ buồn ngủ
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:nhảm gễ khi giờ học thảm phào muồn ngộ quá ờ bôn ngủ
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ███████████████████████████████▍          | 74/95 [00:03<00:00, 21.30it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:đây là tháng có số đăng ký thấp nhất từ đầu năm đến nay
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:đây là thảng còn sổ đăng kỹ thấp nhấ từ đầu năm đe nay
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ███████████████████████████████▉          | 75/95 [00:03<00:00, 21.30it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:cùng vợ ăn vội chén cơm thành lại lo ôn bài làm bài tập
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:cùng vợ ăn vộ chén cơm thành lại lo ônm bày làm bày tập
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ████████████████████████████████▍         | 76/95 [00:03<00:00, 21.31it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:từng là chủ tế hàng trăm lễ an táng mộ gió
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:từng là chủ tế hàng trăm lẽ anh táng mổi gió
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ████████████████████████████████▉         | 77/95 [00:03<00:00, 21.26it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:có bao giờ ông gặp tình huống không trả lời được câu hỏi của dân
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:có bao giờ ông gặp tình huống không trả lời được câu hỏi của dân
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] █████████████████████████████████▍        | 78/95 [00:03<00:00, 21.25it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:những người cô lập mình có thể gặp phải chứng trầm cảm hoặc lo lắng
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:những người cô lặc mình có thể gặp phải chứn trầm cảm hoặc la lắng
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] █████████████████████████████████▉        | 79/95 [00:03<00:00, 21.20it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:và một điều sâu xa là mình đã thật sự yêu bạn
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:và một điều sâu xa là mình đã thực sự yêu bạn
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████████▍       | 80/95 [00:03<00:00, 21.21it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:rồi mặc dù biết là ngớ ngẩn tôi cứ nói ra
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:rồi mặc dù biết là ngó ngận tôi cứ nói ra
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████████▉       | 81/95 [00:03<00:00, 21.19it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:bản thân tôi cũng tham gia một vai rất nhỏ nữa
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:bản thân tôi cũng tham ga một vái rất nhỏ nử
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ███████████████████████████████████▍      | 82/95 [00:03<00:00, 21.22it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:sau đó bản thân học sinh phải làm đơn xin học bổng
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:sau đó bạn thân học sinh phải làm đơn sinh học bọng
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ███████████████████████████████████▉      | 83/95 [00:03<00:00, 21.26it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:đó cũng là sự tiếp xúc gần gũi nhất của bọn em
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:đó cũng là sử tiếp súc gần gủi nhất của bọn em
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ████████████████████████████████████▍     | 84/95 [00:03<00:00, 21.23it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:được bày trên những bệ thờ bên cạnh những bó sen huệ thơm nức
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:được bày trên những bệ thờ bên cạnh những mó seng hệ thông phức
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ████████████████████████████████████▉     | 85/95 [00:04<00:00, 21.24it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:không nên chỉ dựa vào bài viết của bạn để thuyết minh thêm
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:không nên chỉ giỡ bào bài viết của bản để thiết minh thêm
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] █████████████████████████████████████▍    | 86/95 [00:04<00:00, 21.27it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:chúc bạn đọc có thật nhiều thời gian thư giãn thoải mái
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:bạn đọc có thật nhiều thời gian tư giảnh thoại mãi
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] █████████████████████████████████████▉    | 87/95 [00:04<00:00, 21.25it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:tối qua người ta đến bắt tôi giữa đêm hôm khuya khoắt
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:tội qua người ta đin bắt tôi giỡa đêm khôn khiê khách
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████████████▍   | 88/95 [00:04<00:00, 21.28it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:hình ảnh quảng cáo điếu thuốc điện tử được công ty t
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:hìn ảnh cần cảo điau thuốc điện tử được công ty
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ██████████████████████████████████████▉   | 89/95 [00:04<00:00, 21.30it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:sau đó họ lân la sang chơi rồi đánh cắp đứa bé
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:sau đỏ họ lên là săn thơi rồi đánh cấp đửa bé
+                                                                                                             [NeMo I 2025-03-04 09:10:42 wer:329] ███████████████████████████████████████▍  | 90/95 [00:04<00:00, 21.32it/s]
+    
+[NeMo I 2025-03-04 09:10:42 wer:330] reference:từ đó lại sa đà vào nhiều nghịch cảnh đáng tiếc
+[NeMo I 2025-03-04 09:10:42 wer:331] predicted:từ đó lại phe đà vào nhiều hở gịch cảnh đáng tiết 
+                                                                                                             [NeMo I 2025-03-04 09:10:43 wer:329] ███████████████████████████████████████▉  | 91/95 [00:04<00:00, 21.32it/s]
+    
+[NeMo I 2025-03-04 09:10:43 wer:330] reference:ông nói chúng tôi hi vọng sẽ có những tin tức tốt lành
+[NeMo I 2025-03-04 09:10:43 wer:331] predicted:ông nói chúng tôi hi vọng sẽ có những ti tất tốt lành
+                                                                                                             [NeMo I 2025-03-04 09:10:43 wer:329] ████████████████████████████████████████▍ | 92/95 [00:04<00:00, 21.21it/s]
+    
+[NeMo I 2025-03-04 09:10:43 wer:330] reference:trang viết của họ hơn hẳn thời tuổi trẻ của tôi
+[NeMo I 2025-03-04 09:10:43 wer:331] predicted:crang viết của họ hơn hẳn thời tổi trạy của tôi
+                                                                                                             [NeMo I 2025-03-04 09:10:43 wer:329] ████████████████████████████████████████▉ | 93/95 [00:04<00:00, 21.19it/s]
+    
+[NeMo I 2025-03-04 09:10:43 wer:330] reference:nhanh quá đã là lần thứ ba xa nhà rồi đấy
+[NeMo I 2025-03-04 09:10:43 wer:331] predicted:nghanh quá đã là lần thứ ba xen nhà rồa đấy
+                                                                                                             [NeMo I 2025-03-04 09:10:43 wer:329] █████████████████████████████████████████▍| 94/95 [00:04<00:00, 21.16it/s]
+    
+[NeMo I 2025-03-04 09:10:43 wer:330] reference:vợ lỡ có tật thế anh nên thay đổi cách tiếp cận
+[NeMo I 2025-03-04 09:10:43 wer:331] predicted:vợ lở các tật thế anh nên thay đổi cách tiếp cọn
+Epoch 29: 100%|███████████████████| 365/365 [36:06<00:00,  0.17it/s, v_num=4-21, train_step_timing in s=0.376]Epoch 29, global step 10950: 'val_wer' reached 0.10515 (best 0.10515), saving model to '/home/manh264/code_linux/NeMo/experiments/lang-vi/ASR-Char-Model-Language-vi/2025-03-03_15-24-21/checkpoints/ASR-Char-Model-Language-vi--val_wer=0.1052-epoch=29.ckpt' as top 3
+[NeMo I 2025-03-04 09:10:44 nemo_model_checkpoint:315] /home/manh264/code_linux/NeMo/experiments/lang-vi/ASR-Char-Model-Language-vi/2025-03-03_15-24-21/checkpoints/ASR-Char-Model-Language-vi.nemo already exists, moving existing checkpoint to /home/manh264/code_linux/NeMo/experiments/lang-vi/ASR-Char-Model-Language-vi/2025-03-03_15-24-21/checkpoints/ASR-Char-Model-Language-vi-v1.nemo
+[NeMo I 2025-03-04 09:10:44 nemo_model_checkpoint:235] New best .nemo model saved to: /home/manh264/code_linux/NeMo/experiments/lang-vi/ASR-Char-Model-Language-vi/2025-03-03_15-24-21/checkpoints/ASR-Char-Model-Language-vi.nemo
+[NeMo I 2025-03-04 09:10:44 nemo_model_checkpoint:244] Removing old .nemo backup /home/manh264/code_linux/NeMo/experiments/lang-vi/ASR-Char-Model-Language-vi/2025-03-03_15-24-21/checkpoints/ASR-Char-Model-Language-vi-v1.nemo
+Epoch 30:   1%|▏                    | 4/365 [00:20<31:25,  0.19it/s, v_num=4-21, train_step_timing in s=4.890][NeMo I 2025-03-04 09:11:07 wer:329] 
+    
+[NeMo I 2025-03-04 09:11:07 wer:330] reference:và quan trọng hơn làm việc là cách để con người thể hiện bản thân và là cơ sở để mọi người nhìn nhận và đánh gia
+[NeMo I 2025-03-04 09:11:07 wer:331] predicted:và ran trọng hơn làm việc là cách để con người thể hiện bản thân và là cơ sở để mọi người nhìn nhận vỡ á gá
+Epoch 30:   2%|▌                    | 9/365 [00:45<29:57,  0.20it/s, v_num=4-21, train_step_timing in s=7.630][NeMo I 2025-03-04 09:11:32 wer:329] 
+    
+[NeMo I 2025-03-04 09:11:32 wer:330] reference:tía con hai rớt chuẩn bị châm lửa ngọn bùi nhùi
+[NeMo I 2025-03-04 09:11:32 wer:331] predicted:tia con hai gớt chuẩn bị chăm lửa ngọt bùi ngui
+Epoch 30:   4%|▊                   | 14/365 [01:10<29:16,  0.20it/s, v_num=4-21, train_step_timing in s=4.660][NeMo I 2025-03-04 09:11:57 wer:329] 
+    
+[NeMo I 2025-03-04 09:11:57 wer:330] reference:tại đây sau khi khám xét công an thu giữ một búa kiểm lâm một cặp nhị khúc một con dấu giả
+[NeMo I 2025-03-04 09:11:57 wer:331] predicted:tại đây sau khi khám xét công an thu giữ một cúa kiểm lâm một cặp nhị khúc một con dấu giã
+Epoch 30:   5%|█                   | 19/365 [01:46<32:18,  0.18it/s, v_num=4-21, train_step_timing in s=10.20][NeMo I 2025-03-04 09:12:32 wer:329] 
+    
+[NeMo I 2025-03-04 09:12:32 wer:330] reference:người mỹ không có ý định đứng về bên nào trong cuộc chiến phe phái hay đứng giữa làn đạn của các phe phái thù địch
+[NeMo I 2025-03-04 09:12:32 wer:331] predicted:mư mỹ không có ý định đứng về bên nào trong cuộc chiến phê phái hay đứn giữa làn đạn của các phía phái thù địch
+Epoch 30:   7%|█▎                  | 24/365 [02:13<31:38,  0.18it/s, v_num=4-21, train_step_timing in s=7.670][NeMo I 2025-03-04 09:12:59 wer:329] 
+    
+[NeMo I 2025-03-04 09:12:59 wer:330] reference:việc qui hoạch hệ thống thủy lợi không chỉ nhằm mục tiêu phục vụ nông nghiệp mà cho nhiều ngành nghề từ công nghiệp thủy sản dịch vụ
+[NeMo I 2025-03-04 09:12:59 wer:331] predicted:việ quy hoạch hệ thống thủy loi không chỉ nhàmục mục tiêu phục vủ nông nghiệp mà cho nhiờ ngàn nghề từ công nhiệt thủy sản xịch vụ
