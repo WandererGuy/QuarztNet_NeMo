@@ -2,22 +2,25 @@
 this repo shows basic training of QuarztNet from NVIDIA to train for ASR for single language from scratch
 
 # create env samples
+```
 conda create -p /home/manh264/code_linux/NeMo/env python==3.10 -y
 conda install anaconda::ipykernel
 pip install wget
 sudo apt-get install sox libsndfile1 ffmpeg
 pip install text-unidecode
 pip install matplotlib>=3.3.2
-
+```
 # install torch for nemo 
+```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
-
+```
 # install nemo 
+```
 sudo apt-get update && sudo apt-get install -y libsndfile1 ffmpeg
 pip install Cython packaging
 pip install nemo_toolkit['asr']
 pip install numpy==1.25.0
-
+```
 # tutorials:
 - Vietnamese Automatic Speech Recognition Using NVIDIA – QuartzNet Model
 https://www.neurond.com/blog/vietnamese-automatic-speech-recognition-vietasr
